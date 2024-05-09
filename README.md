@@ -16,33 +16,6 @@ Ensure you have Python installed on your device along with the required librarie
 ![image](https://github.com/ali-shoaib-goraya/OOP-Project-1_Console_based_Facebook/assets/169273765/f8883214-fc91-4428-838e-de8267c1fa96)
 
 
-....................Welcome to Console based Facebook...................
-1.Create Account
-2.Login
-0.Exit
-Make decision: 2
-Enter your email:ali
-Enter your name:ali
-Enter your password:ali
-You have successfuly logged in
-1.Add_Bio
-2.Add_Education_details
-3.Add_Work_Experience
-4.Sent_Friend_request
-5.Accept_Friend_request
-6.Reject_Friend_request
-7.Search_Profile_by_name
-8.See_Notifications
-9.Share_privately_with_Friends
-10.Search_Post_with_word
-11.Comment_on_post
-12.Send_message
-13.See_Posts
-14.See_messages
-0.Main menu:
-Make decision:
-
-
 ## Guidelines for Exploration:
 - Make decisions based on your choice to explore the functionality.
 - To fully test the functionality, create at least two accounts.
